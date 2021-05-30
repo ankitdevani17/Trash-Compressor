@@ -1,5 +1,5 @@
 .u-section-1 {
-  background-image: url("images/pexels-photo-2556956.jpg");
+  background-image: url("images/f620860e6215d3c7b27c773eefc91dfc7e1a01316a57d34cb858f732e823f49f269caf705ccecc556d26b5d81e8f8e8ded1fd9282da204217625c4_12804.jpg");
   background-position: 50% 50%;
 }
 
@@ -100,7 +100,7 @@
     width: 340px;
   }
 }.u-section-2 {
-  background-image: url("images/pexels-photo-2556956.jpg");
+  background-image: url("images/f620860e6215d3c7b27c773eefc91dfc7e1a01316a57d34cb858f732e823f49f269caf705ccecc556d26b5d81e8f8e8ded1fd9282da204217625c4_12805.jpg");
   background-position: 50% 50%;
 }
 
@@ -111,7 +111,8 @@
 .u-section-2 .u-text-1 {
   font-weight: 700;
   width: 586px;
-  margin: 60px auto 0;
+  animation-duration: 1000ms;
+  margin: 74px auto 0;
 }
 
 .u-section-2 .u-table-1 {
@@ -150,6 +151,10 @@
 
 .u-section-2 .u-table-cell-14 {
   background-image: none;
+}
+
+.u-section-2 .u-table-cell-15 {
+  font-weight: 700;
 }
 
 .u-block-f5b7-35 {
